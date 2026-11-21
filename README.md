@@ -3,7 +3,7 @@
 Can a tiny neural network tell **Andrew Garfield**, **Tobey Maguire** and **Tom Holland** apart? This project fine-tunes a small YOLO11 object detector to draw a box around an actor's face and say which Spider-Man actor it is.
 
 - **Course:** CSCI1409 Deep Learning, KBTU, Fall 2026, bonus project (individual work)
-- **Author:** Ayamourr (GitHub)
+- **Author:** Ayaulym Aitore
 - **Run it in your browser:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ayamourr/spiderman-actor-detector/blob/main/spiderman_detector.ipynb)
 - **Final trained checkpoint (5.5 MB):** [weights/final_best.pt](https://github.com/Ayamourr/spiderman-actor-detector/raw/main/weights/final_best.pt)
 
