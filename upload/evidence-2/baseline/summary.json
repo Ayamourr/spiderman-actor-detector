@@ -1,1 +1,0 @@
-{"run": "baseline", "imgsz": 640, "precision": 0.743, "recall": 0.736, "map50": 0.769, "train_minutes": 3.8}
