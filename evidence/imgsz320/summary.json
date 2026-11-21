@@ -1,0 +1,1 @@
+{"run": "imgsz320", "imgsz": 320, "precision": 0.836, "recall": 0.731, "map50": 0.805, "train_minutes": 2.2}
