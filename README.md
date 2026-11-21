@@ -27,7 +27,7 @@ Can a tiny neural network tell **Andrew Garfield**, **Tobey Maguire** and **Tom 
 
 | | |
 |---|---|
-| **Source** | Roboflow Universe, "actor Computer Vision Dataset" by **soo236**: https://https://universe.roboflow.com/soo236/actor-11ga2 |
+| **Source** | Roboflow Universe, "actor Computer Vision Dataset" by **soo236**: https://universe.roboflow.com/soo236/actor-11ga2 |
 | **License / usage terms** | CC BY 4.0 (credit the author). The photos show real people and were collected from the internet by the dataset author; I did not check the rights of each photo, so I use them only for this course project and do **not** upload the images to GitHub. |
 | **Annotation format** | YOLO text files: one `.txt` per image, one line per box: `class x_center y_center width height`, all numbers between 0 and 1 (fractions of the image size). The boxes were drawn by the dataset author. |
 | **Export** | Roboflow export "YOLO11", version 1. Preprocessing: Auto-Orient only. **No resizing and no augmentation** in the export. |
